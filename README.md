@@ -29,5 +29,5 @@ A pixel-perfect **clone of an Awwwards-winning website**, built using **HTML, CS
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ```bash
+https://github.com/Ranjanas03/Pink-Flare.git
    
